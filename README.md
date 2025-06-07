@@ -30,3 +30,13 @@ If you care about Application Security and want to collaborate with the key play
 The Summit will occur in England, 12-16 June 2017, with an entry ticket of 1400 EUR + VAT (covering stay + accommodation + event fee). OWASP has somefunding for its leaders and other deserving individuals to attend, so if you feel you can't afford this fee, or your company is not in a position to sponsor you, please contact the event organisers.
 
 If you want to be involved, add you name to the [Participants](Participants) page
+
+## Chatbot
+
+A simple command-line chatbot is included for demonstration. Run it with:
+
+```bash
+npm run chatbot
+```
+
+Type `bye` to exit the conversation.
